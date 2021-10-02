@@ -1,7 +1,7 @@
 .container-fluid{
      /* width: 99% !important; */
     /* background-color:gray;  */
-    background: url(bodyimage.svg)top no-repeat; 
+    background:(bodyimage.svg)top no-repeat; 
     /* background-size: 850px;
     height: 226px; */ 
 
